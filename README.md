@@ -1,2 +1,2 @@
 # MassQL_Tryptamines_manuscript
-MassQL compendium for rule-guided MS/MS spectral retrieval of psychoactive tryptamines and related analogs
+This repository contains all data and scripts associated with the manuscript "A Hierarchical MassQL Compendium for Annotating Psychoactive Tryptamines and Their Analogs in Untargeted Metabolomics".
